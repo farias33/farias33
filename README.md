@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thales!
+# Hi, I'm Thales!
 
 💻 Computer Engineering student at **CEFET/RJ**  
 🌄 Researching **procedural terrain generation** with **C**, **OpenGL** and algorithms like **Perlin Noise**  
